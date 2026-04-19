@@ -1,0 +1,9 @@
+pandas>=2.0
+networkx>=3.0
+geopandas>=0.14
+matplotlib>=3.7
+shapely>=2.0
+python-louvain>=0.16
+pyvis>=0.3
+jupyter>=1.0
+openpyxl>=3.1
