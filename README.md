@@ -22,8 +22,8 @@ NTNU Social Network Analysis, Dr. Chun-Hsiang Chan, 2026 Spring.
 
 | 資料集 | 說明 | 連結 |
 |--------|------|------|
-| TICD | 部落人口、座標、族群比例 | [OSF](https://osf.io/esw67/) |
-| TIPsMigDynamics | 點對點遷徙動態 | [政大學術集成](https://ah.lib.nccu.edu.tw/item?item_id=171103) 、[OSF](https://osf.io/6rpz9/)|
+| TICD | 部落人口、座標、族群比例 | [OSF-TICD](https://osf.io/esw67/) |
+| TIPsMigDynamics | 點對點遷徙動態 | [政大學術集成](https://ah.lib.nccu.edu.tw/item?item_id=171103) 、[OSF-TIPD](https://osf.io/6rpz9/)、[OSF-TIMD](https://osf.io/e4rvz/files/dropbox)|
 | GIS 點位 | 部落空間定位 | [depositar](https://data.depositar.io/dataset/rf03-1) |
 
 原始資料因授權限制未上傳，請依上方連結自行下載，放入 `data/raw/` 對應子資料夾。
